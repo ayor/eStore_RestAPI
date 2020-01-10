@@ -1,0 +1,14 @@
+C:\Users\DOSUMU AYOMIDE\source\repos\VideoRentalApi\VideoRentalApi\bin\Release\netcoreapp2.2\VideoRentalApi.deps.json
+C:\Users\DOSUMU AYOMIDE\source\repos\VideoRentalApi\VideoRentalApi\bin\Release\netcoreapp2.2\VideoRentalApi.runtimeconfig.json
+C:\Users\DOSUMU AYOMIDE\source\repos\VideoRentalApi\VideoRentalApi\bin\Release\netcoreapp2.2\VideoRentalApi.runtimeconfig.dev.json
+C:\Users\DOSUMU AYOMIDE\source\repos\VideoRentalApi\VideoRentalApi\bin\Release\netcoreapp2.2\VideoRentalApi.dll
+C:\Users\DOSUMU AYOMIDE\source\repos\VideoRentalApi\VideoRentalApi\bin\Release\netcoreapp2.2\VideoRentalApi.pdb
+C:\Users\DOSUMU AYOMIDE\source\repos\VideoRentalApi\VideoRentalApi\obj\Release\netcoreapp2.2\VideoRentalApi.csprojAssemblyReference.cache
+C:\Users\DOSUMU AYOMIDE\source\repos\VideoRentalApi\VideoRentalApi\obj\Release\netcoreapp2.2\VideoRentalApi.csproj.CoreCompileInputs.cache
+C:\Users\DOSUMU AYOMIDE\source\repos\VideoRentalApi\VideoRentalApi\obj\Release\netcoreapp2.2\VideoRentalApi.RazorAssemblyInfo.cache
+C:\Users\DOSUMU AYOMIDE\source\repos\VideoRentalApi\VideoRentalApi\obj\Release\netcoreapp2.2\VideoRentalApi.RazorAssemblyInfo.cs
+C:\Users\DOSUMU AYOMIDE\source\repos\VideoRentalApi\VideoRentalApi\obj\Release\netcoreapp2.2\VideoRentalApi.AssemblyInfoInputs.cache
+C:\Users\DOSUMU AYOMIDE\source\repos\VideoRentalApi\VideoRentalApi\obj\Release\netcoreapp2.2\VideoRentalApi.AssemblyInfo.cs
+C:\Users\DOSUMU AYOMIDE\source\repos\VideoRentalApi\VideoRentalApi\obj\Release\netcoreapp2.2\VideoRentalApi.RazorTargetAssemblyInfo.cache
+C:\Users\DOSUMU AYOMIDE\source\repos\VideoRentalApi\VideoRentalApi\obj\Release\netcoreapp2.2\VideoRentalApi.dll
+C:\Users\DOSUMU AYOMIDE\source\repos\VideoRentalApi\VideoRentalApi\obj\Release\netcoreapp2.2\VideoRentalApi.pdb

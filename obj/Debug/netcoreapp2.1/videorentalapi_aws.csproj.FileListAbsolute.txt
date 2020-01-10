@@ -1,0 +1,14 @@
+C:\Users\DOSUMU AYOMIDE\source\repos\videorentalapi_aws\videorentalapi_aws\obj\Debug\netcoreapp2.1\videorentalapi_aws.csprojAssemblyReference.cache
+C:\Users\DOSUMU AYOMIDE\source\repos\videorentalapi_aws\videorentalapi_aws\obj\Debug\netcoreapp2.1\videorentalapi_aws.csproj.CoreCompileInputs.cache
+C:\Users\DOSUMU AYOMIDE\source\repos\videorentalapi_aws\videorentalapi_aws\obj\Debug\netcoreapp2.1\videorentalapi_aws.RazorAssemblyInfo.cache
+C:\Users\DOSUMU AYOMIDE\source\repos\videorentalapi_aws\videorentalapi_aws\obj\Debug\netcoreapp2.1\videorentalapi_aws.RazorAssemblyInfo.cs
+C:\Users\DOSUMU AYOMIDE\source\repos\videorentalapi_aws\videorentalapi_aws\obj\Debug\netcoreapp2.1\videorentalapi_aws.AssemblyInfoInputs.cache
+C:\Users\DOSUMU AYOMIDE\source\repos\videorentalapi_aws\videorentalapi_aws\obj\Debug\netcoreapp2.1\videorentalapi_aws.AssemblyInfo.cs
+C:\Users\DOSUMU AYOMIDE\source\repos\videorentalapi_aws\videorentalapi_aws\bin\Debug\netcoreapp2.1\videorentalapi_aws.deps.json
+C:\Users\DOSUMU AYOMIDE\source\repos\videorentalapi_aws\videorentalapi_aws\bin\Debug\netcoreapp2.1\videorentalapi_aws.runtimeconfig.json
+C:\Users\DOSUMU AYOMIDE\source\repos\videorentalapi_aws\videorentalapi_aws\bin\Debug\netcoreapp2.1\videorentalapi_aws.runtimeconfig.dev.json
+C:\Users\DOSUMU AYOMIDE\source\repos\videorentalapi_aws\videorentalapi_aws\bin\Debug\netcoreapp2.1\videorentalapi_aws.dll
+C:\Users\DOSUMU AYOMIDE\source\repos\videorentalapi_aws\videorentalapi_aws\bin\Debug\netcoreapp2.1\videorentalapi_aws.pdb
+C:\Users\DOSUMU AYOMIDE\source\repos\videorentalapi_aws\videorentalapi_aws\obj\Debug\netcoreapp2.1\videorentalapi_aws.RazorTargetAssemblyInfo.cache
+C:\Users\DOSUMU AYOMIDE\source\repos\videorentalapi_aws\videorentalapi_aws\obj\Debug\netcoreapp2.1\videorentalapi_aws.dll
+C:\Users\DOSUMU AYOMIDE\source\repos\videorentalapi_aws\videorentalapi_aws\obj\Debug\netcoreapp2.1\videorentalapi_aws.pdb
